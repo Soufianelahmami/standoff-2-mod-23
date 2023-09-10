@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Mobile gaming has come a long way in recent years, with smartphones and tablets now capable of delivering immersive and graphically impressive gaming experiences ",
+   "photo1":"https://iili.io/J9rmcDQ.webp"},
+  {"desc2":"Among the many genres that have thrived on mobile devices, first-person shooters (FPS) have seen a significant rise in popularity","photo2":"https://iili.io/J9rmYRj.webp"},
+  {"desc3":"Standoff 2, developed by Axlebolt, is one such FPS game that has garnered a dedicated fanbase","photo3":"https://iili.io/J9rmaOx.webp"},
+  {"desc4":"Standoff 2 is the sequel to the highly acclaimed Standoff game series. From its initial release, the game aimed to provide a true FPS experience on mobile devices","photo4":"https://iili.io/J9rm7Hb.webp"},
+  {"desc5":"With each update, Standoff 2 has continued to evolve, refining its gameplay, graphics, and mechanics","photo5":"https://iili.io/J9rm0xV.webp"},
+  {"descd":"Standoff 2 MOD 2.3 is a modified version of the original game that incorporates various enhancements and additions","photod":"https://iili.io/J9rm1WB.webp"}
    ]
  
 }
